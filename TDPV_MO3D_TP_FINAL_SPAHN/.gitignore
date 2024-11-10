@@ -1,0 +1,52 @@
+# Archivos y carpetas de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de Autoguardado de Visual Studio/MonoDevelop
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.sln.docstates
+
+# Archivos de configuración de compilación
+*.apk
+*.aab
+*.exe
+*.app
+*.msi
+*.accdb
+*.db
+
+# Archivos de caché y datos de Unity
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.sln.docstates
+.vs/
+.vscode/
+
+# Archivos de Unity y otros tipos de backups
+*.unitypackage
+*.meta
+*.DS_Store
+*.swp
+*.lock
+*.lock.json
+
+# Configuración de sistemas de integración continua (CI/CD)
+[Uu]nityCache/
+Logs/
+
+# Configuraciones personales que no se deben compartir entre desarrolladores
+UserSettings/
+*.Preferences
